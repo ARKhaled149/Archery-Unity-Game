@@ -106,7 +106,11 @@ Player feedback will guide future improvements and updates.
 
 ## Release
 
-v1.0.0 in the release section contains the apk file for the game.
+v1.0.0 in the release section contains the APK file for the game.
+
+## Playthrough Video
+
+https://drive.google.com/file/d/1yT6baO67QLkOB9qf-DIir3Ptq56jflSY/view?usp=sharing
 
 ## Conclusion
 

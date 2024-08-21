@@ -104,6 +104,10 @@ Potential updates include new levels, arrow types, and enhanced environmental ef
 
 Player feedback will guide future improvements and updates.
 
+## Release
+
+v1.0.0 in the release section contains the apk file for the game.
+
 ## Conclusion
 
 The **VR Archery Game** aims to deliver a satisfying and challenging VR experience, leveraging technology to create an immersive environment. Future enhancements will build on player feedback to refine gameplay and expand content.
